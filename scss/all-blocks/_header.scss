@@ -1,0 +1,35 @@
+
+
+.header{
+    margin-top: 44px;
+    margin-bottom: 45px;
+    
+    &__top{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+    }
+    
+    &__list{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+    }
+    
+    &__link{
+        font-family: 'Barlow', 'sans-serif';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 15px;
+        letter-spacing: 0.923077px;
+        text-transform: uppercase;
+        color: #83888F;
+        padding-left: 32px;
+        
+    }
+    
+    
+}
